@@ -1,0 +1,50 @@
+.maindiv{
+    width: 30%;
+    margin: auto;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-transform: capitalize;
+    display: flex;
+}
+.image{
+height: 100px;
+width: 100px;
+background-image: url(./Tribhuvan_University_Logo.png);
+background-size: contain;
+background-repeat: no-repeat;
+margin: 5px;
+}
+.allinone{
+    /* background-color: aquamarine; */
+    width: 100%;
+}
+.c1{
+    display: flex;
+    justify-content:center ;
+    font-style: italic;
+    font-size: 17px;
+    font-family: sans-serif;
+    width: 60%;
+    /* background-color: black; */
+
+}
+.c2{
+    font-style: italic;
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
+.c3{
+    font-style: italic;
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
+.c4{
+    font-style: italic;
+    font-size: 17px;
+    font-family: sans-serif;
+
+}
